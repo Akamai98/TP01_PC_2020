@@ -1,0 +1,539 @@
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 19
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: CONSUMING
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:24 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 20
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:26 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: CONSUMING
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 22
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: CONSUMING
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:28 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 24
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:30 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: CONSUMING
+may 04, 2020 10:47:32 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 22
+may 04, 2020 10:47:32 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:47:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: CONSUMING
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 21
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: CONSUMING
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:37 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: CONSUMING
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:39 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 21
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: CONSUMING
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:41 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:43 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:45 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: CONSUMING
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:47 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: CONSUMING
+may 04, 2020 10:47:49 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 23
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: CONSUMING
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:51 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: CONSUMING
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:53 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 24
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:55 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: CONSUMING
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: CONSUMING
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:47:57 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: CONSUMING
+may 04, 2020 10:47:59 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: CONSUMING
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:01 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: CONSUMING
+may 04, 2020 10:48:03 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 24
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: CONSUMING
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:05 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: CONSUMING
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:07 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: CONSUMING
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:09 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: CONSUMING
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:11 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:13 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: CONSUMING
+may 04, 2020 10:48:15 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: CONSUMING
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:17 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: CONSUMING
+may 04, 2020 10:48:19 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:21 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:23 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: CONSUMING
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 24
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:25 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 23
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: CONSUMING
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:27 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 22
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: CONSUMING
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:29 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 24
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: CONSUMING
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:31 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: CONSUMING
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:33 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: BUFFER CURRENT SIZE: 25
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #0: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #1: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #2: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #3: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #4: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumer Thread State: Consumer #5: AVAILABLE
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: ------------------------------------------------------------------------------
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: END OF PROGRAM: 
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Consumed: 1000
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Produced: 1721
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Discarded: 696
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: Products in buffer: 25
+may 04, 2020 10:48:35 A. M. tp01PCPckg.Log setLog
+INFORMACIÓN: ------------------------------------------------------------------------------
+
+
+EXPLICACIÓN DE LA SITUACIÓN:
+
+En este log se puede apreciar que el funcionamiento del programa es correcto, ya que nunca hay
+más de un consumidor en estado CONSUMING (consumen de a uno), respetando la exclusión mutua.
+Por otro lado, también se puede ver que el tamaño del buffer (productos en la heladera) nunca excede
+los 25.
+En cuanto a la duración, podemos notar que el programa tardó 1 minuto y 11 segundos, manteniéndose
+dentro del margen establecido por la consigna.
+
+Cabe resaltar, también, que el programa finaliza cuando se llega a los mil productos consumidos.
+
+Finalmente, queremos mostrar que la siguiente ecuación es lógica y válida para cada ejecución de prueba
+que se realizó con este código:
+
+productos consumidos + productos desechados + productos restantes en buffer = productos producidos
+
+En este caso particular:
+
+1000 + 696 + 25 = 1721
